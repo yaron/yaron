@@ -1,7 +1,7 @@
 ### Hello!
 
 ## Current work
-I'm currently working on a wishlist application for my family. There's a backend written in Go and a frontend written with Svelte (JS). I'm planning on updating the flutter application I wrote for an older version to also work with the backend and to add a File-proxy app in Go that can cache the images.
+I'm currently working on a wishlist application for my family. There's a backend written in Go and a frontend written with Svelte (JS). It also includes an image hosting part that fetches an image and returns the location of the saved version.
 
 ## Presentations
 I've made some trainings that are best viewed on github.io instead of in their repositories:
